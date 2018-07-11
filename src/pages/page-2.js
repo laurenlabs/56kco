@@ -2,13 +2,11 @@ import React from 'react';
 import Link from 'gatsby-link';
 
 export default () => (
-  <div style={{ color: `tomato` }}>
-    <h1>Hello Gatsby!</h1>
-    <p>What a world.</p>
-    <img src="https://source.unsplash.com/random/400x200" alt="" />
+  <div>
+    <p>Hello world from my second Gatsby page</p>
     <br />
     <div>
-      <Link to="/page-2/">Link Page 2</Link>
+      <Link to="/">Link Home</Link>
     </div>
     <div>
       <Link to="/page-3/">Link Page 3</Link>
