@@ -1,17 +1,10 @@
-# 56kco
+# 56k Consulting
 
-Custom website built with Gatsby
-
-# gatsby-starter-hello-world
-
-Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-
-```
-gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
-```
+Custom website built with gatsby-starter-hello-world, the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site.
 
 ## Running in development
+1. `git clone`
 
-`gatsby develop`
+2. `npm install`
+
+3. `gatsby develop`
