@@ -1,0 +1,10 @@
+Tools:
+Docker
+AWS
+Terraform
+Kubernetes
+Vault
+Consul
+CI/CD
+Mesos
+Kafka
